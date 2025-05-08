@@ -1,3 +1,6 @@
+
+//Nombres: James Columba, Jean Peralta
+
 package Paso1;
 
 public class Main {
