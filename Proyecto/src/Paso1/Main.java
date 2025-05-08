@@ -20,6 +20,7 @@ public class Main {
         }
 
         System.out.println("La lluvia acumulada es: " + acumulado);
+        System.out.println("La lluvia promedio es: " + acumulado/12);
 
     }
 }
