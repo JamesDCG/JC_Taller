@@ -22,5 +22,8 @@ public class Main {
         System.out.println("La lluvia acumulada es: " + acumulado);
         System.out.println("La lluvia promedio es: " + acumulado/12);
 
+        for(String nombreMes : meses)
+            System.out.println(nombreMes);
+
     }
 }
